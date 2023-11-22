@@ -1,1 +1,7 @@
-# Projects
+# Portfolio
+| # | Название проекта | Описание | Стек |
+|---|---|---|---|
+| 1 | [E-commerce — Выявление профилей потребления](https://github.com/NataliaKorytova/yandex_practicum/tree/main/E-commerce)  |  Cегментация покупателей по профилю потребления для интернет-магазина. |  Python, pandas, matplotlib, seaborn,plotly | 
+| 2 | [Анализ поведения пользователей мобильного приложения](https://github.com/NataliaKorytova/yandex_practicum/tree/main/Анализ%20поведения%20пользователей%20мобильного%20приложения)  | Изучение воронки продаж (сколько пользователей доходит до покупки, а сколько "застревает" и где), исследование результатов A/A/B-эксперимента с целью выявить какой шрифт лучше - новый или прежний.   | Python, pandas, matplotlib, seaborn, plotly, stats | 
+| 3 | [Исследование рынка общественного питания Москвы для инвесторов с целью открытия кофейни](https://github.com/NataliaKorytova/yandex_practicum/tree/main/Анализ%20рынка%20общественного%20питания%20Москвы)  | Подготовка исследования рынка Москвы, с целью найти интересные особенности, которые в будущем помогут в выборе подходящего места для открытия кофейни | Python, pandas, matplotlib, seaborn, plotly, folium | 
+| 4 | [Оценка результатов А/В-теста для интернет-магазина](https://github.com/NataliaKorytova/yandex_practicum/tree/main/Оценка%20результатов%20AB-теста)  | Оценка соответствия данных ТЗ и проведение оценки результатов A/B-теста | Python, pandas, matplotlib, seaborn, plotly, stat | 
